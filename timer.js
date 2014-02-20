@@ -1,5 +1,5 @@
-var $ = require('jquery');
-var d3 = require('d3');
+var $ = require('component-jquery');
+var d3 = require('mbostock-d3');
 
 var SEC = 1000;
 var TWOPI = 2 * Math.PI;

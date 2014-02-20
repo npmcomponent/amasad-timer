@@ -1,0 +1,16 @@
+{
+  "name": "amasad-timer",
+  "description": "countdown with svg graphics",
+  "version": "0.0.1",
+  "keywords": [
+    "timer",
+    "countdown",
+    "stopwatch"
+  ],
+  "main": "timer.js",
+  "dependencies": {
+    "mbostock-d3": "git://github.com/npmcomponent/mbostock-d3.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT"
+}
